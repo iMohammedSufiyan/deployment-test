@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\bin\Debug\netstandard2.0\DeployDemo.deps.json
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\bin\Debug\netstandard2.0\DeployDemo.dll
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\bin\Debug\netstandard2.0\DeployDemo.pdb
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.dll
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\refint\DeployDemo.dll
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\DeployDemo.pdb
+C:\Users\Administrator\Desktop\deployment-test\DeployDemo\DeployDemo\obj\Debug\netstandard2.0\ref\DeployDemo.dll
